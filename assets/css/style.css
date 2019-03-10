@@ -6,6 +6,9 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     /*background: url(assets/images/full_bloom.png);*/
 }
+*{
+    box-sizing: border-box;
+}
 
 .container {
     width: 100%;
@@ -14,12 +17,12 @@ body {
     clear: both;
 }
 
-h1, h2, h3, p {
+h1, h3, p {
     margin-bottom: 20px;
 }
 
 p:last-child {
-    margin-bottom: 20px;
+    margin-bottom: 0;
 }
 
 h1, h3 {
@@ -37,10 +40,10 @@ h1 {
 
 h3 {
     font-size: 22px;
-    padding-bottom: 20px;
+    /*padding-bottom: 20px;
     margin-bottom: 15px;
     line-height: 22px;
-    border-bottom: 2px solid #eeeeee;
+    border-bottom: 2px solid #eeeeee;*/
 }
 
 #mast {
