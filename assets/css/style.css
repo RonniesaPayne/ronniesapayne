@@ -11,3 +11,17 @@ body {
     margin: 0 auto;
     clear: both;
 }
+
+h1, h2, h3, p {
+    margin-bottom: 20px;
+}
+
+p:last-child {
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: 700;
+    color:  #4aaaa5;
+}
