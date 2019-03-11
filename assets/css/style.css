@@ -180,6 +180,7 @@ p {
 
 #contactForm ul {
     margin-bottom: 20px;
+    list-style-type: none;
 }
 
 #contactForm li {
