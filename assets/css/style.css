@@ -191,14 +191,17 @@ label, input[type=text], input[type=email], textarea {
     width: 100%;
 }
 
+input[type=text], input[type=email] {
+    height: 45px;
+}
+
 input[type=text], input[type=email], textarea {
     font-size: 15px;
-    height: 45px;
     padding: 0 15px;
     border: 1px solid #dddddd;
 }
 
-
-   
-
+textarea {
+    height: 300px;
+}
 
