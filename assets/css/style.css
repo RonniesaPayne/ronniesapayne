@@ -206,3 +206,8 @@ textarea {
     height: 175px;
 }
 
+input[type=submit] {
+    font-size: 50px;
+    background: #4aaaa5;
+}
+
