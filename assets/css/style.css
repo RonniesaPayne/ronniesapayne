@@ -76,6 +76,11 @@ h3 {
     text-decoration: none;
 }
 
+#logo:hover {
+    background-color: #777777;
+    color: white
+}
+
 nav {
     float: right;
     margin: 30px;
