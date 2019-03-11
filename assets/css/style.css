@@ -210,6 +210,8 @@ input[type=submit] {
     font-size: 20px;
     color: #ffffff;
     background: #4aaaa5;
+    padding:  12px 25px;
+    border: none;
 
 }
 
